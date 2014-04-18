@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congklak", "Congklak\Congklak\Congklak.csproj", "{F335BBE8-BE3B-4CC8-B611-F8129A7B1279}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CongklakContent", "Congklak\CongklakContent\CongklakContent.contentproj", "{20BBC69A-8FA6-4E13-8B71-1DE772B3B626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F335BBE8-BE3B-4CC8-B611-F8129A7B1279}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{F335BBE8-BE3B-4CC8-B611-F8129A7B1279}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{F335BBE8-BE3B-4CC8-B611-F8129A7B1279}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{F335BBE8-BE3B-4CC8-B611-F8129A7B1279}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{F335BBE8-BE3B-4CC8-B611-F8129A7B1279}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{F335BBE8-BE3B-4CC8-B611-F8129A7B1279}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{20BBC69A-8FA6-4E13-8B71-1DE772B3B626}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{20BBC69A-8FA6-4E13-8B71-1DE772B3B626}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
